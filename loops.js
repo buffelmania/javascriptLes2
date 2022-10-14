@@ -1,5 +1,5 @@
 // ==========================================
-// Opdracht 1. Maak een for-loop die 3 keer "Hoera!" in de terminal logt
+// Opdracht 1.1 Maak een for-loop die 3 keer "Hoera!" in de terminal logt
 // Verwachte uitkomsten:
 // Hoera!
 // Hoera!
@@ -13,7 +13,7 @@ for (let i = 0; i < 3; i++) {
 
 
 // ==========================================
-// Opdracht 2. Maak een for-loop die 4 keer het woord "loop..." logt, en bij de vijfde loop het woord "klaar!"
+// Opdracht 1.2 Maak een for-loop die 4 keer het woord "loop..." logt, en bij de vijfde loop het woord "klaar!"
 // Verwachte uitkomsten:
 // loop...
 // loop...
@@ -31,7 +31,7 @@ for (let i = 0; i < 5; i++) {
 
 
 // ==========================================
-// Opdracht 3. Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
+// Opdracht 1.3 Maak een for-loop die van 0 tot 15 loopt. Voor ieder getal wordt in de console gelogd of het getal even of oneven is.
 // Verwachte uitkomsten:
 // 0 is even
 // 1 is oneven
