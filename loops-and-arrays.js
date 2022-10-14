@@ -1,5 +1,5 @@
 // ==========================================
-// Opdracht 1
+// Opdracht 2.1
 // Schrijf een script dat iedere naam in onderstaande array vervangt door een koosnaampje, door er -"je" achter te plakken.
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 namen zou bevatten!
 // ==========================================
@@ -19,7 +19,7 @@ for (let i = 0; i < names.length; i++) {
 
 
 // ==========================================
-// Opdracht 2
+// Opdracht 2.2
 // Schrijf een script dat ieder EVEN getal in onderstaande array met 2 vermenigvuldigd, en ieder ONEVEN getal met 3
 // Zorg ervoor dat dit ook zou werken als de array wel 100 of 200 getallen zou bevatten!
 // ==========================================
@@ -43,7 +43,7 @@ for (let i = 0; i < numbers.length; i++) {
 
 
 // ==========================================
-// Opdracht 3
+// Opdracht 2.3
 // Schrijf een script dat voor de maat van ieder vierkant in onderstaande array het volume uitrekent.
 // Vervolgens moet de huidige waarde in de array overschreven worden met: "Het volume van [x] is [y]"
 // Het volume is lengte x breedte x hoogte
